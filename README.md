@@ -1,3 +1,4 @@
 Ethel Chen
 # ethel.github.io
-This is my personal web
+This is my page.
+
