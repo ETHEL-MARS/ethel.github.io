@@ -7,7 +7,7 @@
 
 >_Coneect people, and wile conversation_<br />
 ---
-## About ME
+## About Me
 * I am a second-year English Communication student interested in intercultural communication, international projects, and documentary research.
 * I enjoy exploring different cultures, conducting research
 * I aspire to use my communication and coordination skills to bridge the gap between people, organizations, and conservation initiatives.
@@ -18,18 +18,18 @@
 > Relevant Coursework:
 >>* Intercultural Communication
 >>* Academic Writing
->>* Comtemporary Literature
+>>* Contemporary Literature
 >>* English for Business Communication
 >>* Logic and Critical Thinking
 ---
 ## Experience
-* 22 hous of volunteer service in Environmental Care Volunteer Project on 24-25 Jan.2026
-* First Class Honors in Academic Year 2025
+* Completed 22 Hours of Volunteer Service in Environmental Care Volunteer Project on 24-25 Jan.2026
+* First-Class Honours, Academic Year 2025
 * Collaborated with team members to develop research findings and prepare a presentation
 * Participated in planning a cultural exhibition featuring food traditions from different cultural backgrounds
 * Explored cultural differences and communication styles across different cultural backgrounds
 ---
-## Skill
+## Skills
 * Cross-cultural Collaboration
 * Information Research
 * Critical Thinking
@@ -45,4 +45,4 @@
 ---
 ## Language
 * Chinese: Native
-* English: Intermediate so far
+* English: Intermediate
